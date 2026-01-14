@@ -4,6 +4,8 @@ This repository contains an academic review project on sentiment analysis techni
 
 It discusses current methods, challenges, and future directions in processing and understanding customer sentiments.
 
+The submission folders are made structure progress research, as per the course instructors guidance.
+
 ## Contents
 - Review report : Sentiment-Analysis-in-E-Commerce-Platforms-A-Review-of-Current-Techniques-and-Future-Directions.pdf 
 - Notes and supporting files in seperate submission folders
